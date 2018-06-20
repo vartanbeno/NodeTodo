@@ -1,0 +1,25 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "NodeTodo is a simple todo list application. It is part of the [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/learn/v4/overview) course, given by Anthony Alicea on Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vartanbeno/NodeTodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vartanbeno/NodeTodo/issues"
+  },
+  "homepage": "https://github.com/vartanbeno/NodeTodo#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  }
+}
